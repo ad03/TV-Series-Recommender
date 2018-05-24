@@ -13,6 +13,10 @@ A python based simple GUI application to recommend TV-Series based on emotion ch
           pip install beautifulsoup4 
      ```
       b. Tkinter  <br/>
+      ```
           apt-get install python-tk  <br/>
+      ```
   Simply run the script (core.py) from terminal as:  <br/>
-    pyhton core.py  <br/>
+  ```
+    pyhton core.py  
+  ```
