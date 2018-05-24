@@ -26,5 +26,9 @@ A python based simple GUI application to recommend TV-Series based on emotion ch
          
       a. BeautifulSoup <br/>
          1. Open command prompt <br/>
-         2. ``` cd c:\python27\scripts ```
-         3. ``` pip install beautifulsoup4 ```
+         2. ``` cd c:\python27\scripts ``` <br/>
+         3. ``` pip install beautifulsoup4 ``` <br/>
+      b. Requests Libraray
+         1. Open command prompt <br/>
+         2. ``` cd c:\python27\scripts ``` <br/>
+         3. ``` pip install requests ``` <br/>
