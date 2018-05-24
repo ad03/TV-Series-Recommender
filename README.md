@@ -21,3 +21,10 @@ A python based simple GUI application to recommend TV-Series based on emotion ch
       ```
            pyhton core.py  
       ```
+2. WINDOWS <br/>
+   Installing Dependencies
+         
+      a. BeautifulSoup <br/>
+         1. Open command prompt <br/>
+         2. ``` cd c:\python27\scripts ```
+         3. ``` pip install beautifulsoup4 ```
