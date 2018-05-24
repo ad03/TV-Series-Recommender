@@ -14,9 +14,9 @@ A python based simple GUI application to recommend TV-Series based on emotion ch
      ```
       b. Tkinter  <br/>
       ```
-          apt-get install python-tk  <br/>
+          apt-get install python-tk
       ```
   Simply run the script (core.py) from terminal as:  <br/>
-  ```
-    pyhton core.py  
-  ```
+      ```
+           pyhton core.py  
+      ```
